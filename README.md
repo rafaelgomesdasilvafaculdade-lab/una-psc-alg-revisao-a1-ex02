@@ -1,4 +1,4 @@
-# Divertidamente
+# Sonic 3
 
 <p align="center">
     <img src="./src/sonic_3.jpg"><br>
