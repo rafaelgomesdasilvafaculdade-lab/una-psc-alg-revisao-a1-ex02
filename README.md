@@ -10,11 +10,13 @@ As habilidades do trio são superadas em todos os aspectos e eles precisam busca
 Crie um programa em Java que simule essa análise, utilizando as seguintes informações baseadas na sinopse de Sonic 3:
 
 ### Novos Aliados:
+
         Pergunte ao usuário quantos novos aliados Sonic, Knuckles e Tails conseguiram encontrar para ajudar na luta contra Shadow.<br>
         Se o número de novos aliados for maior que zero, para cada novo aliado, considere que a "Esperança" (uma emoção positiva da equipe) recebe 15 pontos. <br>
         Caso não tenham encontrado novos aliados, o "Medo" (uma emoção negativa) recebe 40 pontos. <br>
 
 ### Desafio de Poder:
+
         Considere que a equipe enfrentou três grandes confrontos iniciais contra Shadow (Desafio 1, Desafio 2 e Desafio 3). <br>
         Cada confronto é avaliado em uma escala de 0 a 10, representando o quão bem a equipe se saiu (10 sendo sucesso total, 0 sendo derrota). <br>
         Pergunte ao usuário a pontuação obtida pela equipe em cada um dos três desafios. <br>
@@ -23,6 +25,7 @@ Crie um programa em Java que simule essa análise, utilizando as seguintes infor
         Caso a média seja inferior a 7, o "Desânimo" aumenta em 60 pontos. <br>
 
 ### Busca por Soluções:
+
         A equipe precisa analisar 12 estratégias diferentes para tentar superar os poderes de Shadow.<br>
         Pergunte ao usuário quantas dessas estratégias a equipe conseguiu analisar completamente.<br>
         Para cada estratégia analisada, some 10 pontos à "Determinação" da equipe.<br>
