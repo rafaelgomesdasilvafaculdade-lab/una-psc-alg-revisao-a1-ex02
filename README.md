@@ -36,12 +36,3 @@ Ao final do programa, exiba a pontuação de cada uma das emoções/sentimentos 
 Esperança/Medo, Confiança/Desânimo e Determinação/Incerteza. 
 
 Com base nessas pontuações, mesmo que de forma simplificada, o programa não precisa tomar uma decisão sobre a aliança, mas demonstra como diferentes fatores podem influenciar o "estado emocional" da equipe diante de um desafio.
-
-~~~
-A mudança para a nova cidade foi uma experiência incrível para a Riley.
-~~~
-
-Caso a Tristeza possua mais pontos informe:
-~~~
-A mudança para a nova cidade foi uma experiência desagradável para a Riley.
-~~~
