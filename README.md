@@ -5,7 +5,7 @@
 </p>
 
 "Sonic, Knuckles e Tails se juntam para enfrentar Shadow, um novo e misterioso inimigo com poderes diferentes de tudo que já enfrentaram antes.
-As habilidades do trio são superadas em todos os aspectos e eles precisam buscar uma improvável aliança.
+As habilidades do trio são superadas em todos os aspectos e eles precisam buscar uma improvável aliança."
 
 Crie um programa em Java que simule essa análise, utilizando as seguintes informações baseadas na sinopse de Sonic 3:
 
