@@ -50,5 +50,6 @@ O Shadow venceu o time do Sonic.
 ~~~
 
 ### Fork
-Agora, clique em Fork e resolva o algoritmo!
+Agora, clique em Fork e resolva o algoritmo!<br>
+Suba a solucao para sua conta pessoal.
 
