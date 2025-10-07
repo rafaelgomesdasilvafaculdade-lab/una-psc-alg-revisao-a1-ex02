@@ -48,3 +48,7 @@ Caso contrário:
 ~~~
 O Shadow venceu o time do Sonic. 
 ~~~
+
+### Fork
+Agora, clique em Fork e resolva o algoritmo!
+
