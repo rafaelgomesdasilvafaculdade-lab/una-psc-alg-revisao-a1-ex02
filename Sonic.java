@@ -78,9 +78,9 @@ Scanner input = new Scanner(System.in);
     System.out.println("Soma das Emoções Negativas: " + negativas);
 
     if (positivas > negativas) {
-        System.out.println("\n🎉 O Shadow foi derrotado! A equipe de Sonic triunfou!");
+        System.out.println("\n O Shadow foi derrotado! A equipe de Sonic triunfou!");
     } else {
-        System.out.println("\n💀 O Shadow venceu o time do Sonic desta vez...");
+        System.out.println("\n O Shadow venceu o time do Sonic desta vez...");
     }
 
     input.close();
@@ -88,3 +88,4 @@ Scanner input = new Scanner(System.in);
 
 
 }
+
